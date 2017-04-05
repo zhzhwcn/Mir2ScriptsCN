@@ -1,0 +1,29 @@
+[@Description]
+I need your help. I have a Order.. A strange One. 
+Can you travel to the local Cave? and collect some 
+{干净的头骨's/LightSteelBlue}.
+
+[@TaskDescription]
+Collect 20 {干净的头骨's/LightSteelBlue} by hunting {骷髅弓箭手's/Crimson}, 
+{BoneBlademan/Crimson} and {BoneSpearman/Crimson}.
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+干净的头骨 20
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+18500
+
+[@GoldReward]
+18500
+
+

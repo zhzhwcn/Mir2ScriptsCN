@@ -1,0 +1,29 @@
+[@Description]
+Could you do a favour for me as well? I want to
+give a present to {Jane/LimeGreen} to show my gratitude.
+But i cannot leave here at the moment. 
+
+[@TaskDescription]
+Find {姜茶/LightSteelBlue} from {Scarecrows/Crimson} and Deliver
+to {Assistant Jane/LimeGreen} in {BorderVillage/Yellow}.
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+姜茶 1 
+
+[@CarryItems]
+
+[@FixedRewards]
+金色的项链
+
+[@SelectRewards]
+
+[@ExpReward]
+10
+
+[@GoldReward]
+
+

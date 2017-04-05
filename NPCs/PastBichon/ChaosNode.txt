@@ -1,0 +1,15 @@
+[@main]
+#IF
+CHECKITEM 龙鳞 1 
+#ACT
+TAKEITEM 龙鳞 1
+#SAY
+<Enter the Dragons Lair./@tele>
+#ELSESAY
+You do not have the {龙鳞/LightSteelBlue}!
+<Close/@exit>
+
+[@tele]
+#ACT
+MOVE D2081 30 50
+break

@@ -1,0 +1,27 @@
+[@Description]
+Here is the Tea you asked for. Please deliver this 
+before it gets cold.
+
+[@TaskDescription]
+Deliver the {食人花茶/LightSteelBlue} to {MirGuide/LimeGreen}
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+
+[@CarryItems]
+食人花茶 2
+
+[@FixedRewards]
+强化铁腰带
+
+[@SelectRewards]
+
+[@ExpReward]
+439
+
+[@GoldReward]
+145
+

@@ -1,0 +1,34 @@
+[@Description]
+Thankyou traveler. For returning my son's {Robe/LightSteelBlue} I have a task
+if your to the challenge. My Son was looking for some treasure in 
+{SerpentDeadMine/Yellow} There was a letter in his Robes saying he found
+the Gold. Please return and retrieve the {失窃的黄金/LightSteelBlue}
+
+[@TaskDescription]
+Kill {腐烂僵尸/Crimson} located on {SerpentDeadMine 2F/Yellow}
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+失窃的黄金 1
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+强化黑色水晶戒指
+强化蛇眼戒指
+强化珍珠戒指 
+
+[@ExpReward]
+4800
+
+[@GoldReward]
+4800
+
+
+
+

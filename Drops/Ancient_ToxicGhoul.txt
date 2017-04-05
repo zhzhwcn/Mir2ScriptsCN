@@ -1,0 +1,102 @@
+;Gold
+1/5 Gold 800
+
+;Weapons
+
+;Armours
+
+;Helmets
+
+;Necklaces
+1/1900 五玄项链 
+1/900 精神之力项链 
+1/900 蓝雷项链 
+1/900 紫水晶项链 
+
+;Bracelets
+1/400 三眼手镯 
+1/1900 五玄手镯 
+1/500 NokChi手镯 
+1/500 Mundane手套 
+1/500 TaoProtect手镯 
+
+;Rings
+
+;Amulets
+
+;Belts
+
+;Boots
+
+;Stones
+1/250 攻击魔石(大) 
+1/500 攻击魔石(超大) 
+1/250 魔力魔石(大) 
+1/500 魔力魔石(超大) 
+1/250 精神力魔石(大) 
+1/500 精神力魔石(超大) 
+
+;Torches
+
+;Potions
+1/10 (HP)中型药水 
+1/10 (MP)中型药水 
+1/25 (HP)大型药水 
+1/25 (MP)大型药水 
+1/50 太阳水 
+1/100 超级太阳水 
+1/500 绿色药粉 
+
+;Ores
+
+;Meat
+
+;Crafting Materials
+
+;Scrolls
+
+;Gems
+
+;Mount
+
+;Books
+1/190 群体治疗术 
+1/150 魔法盾 
+1/200 寒冰掌 
+
+;Nothing
+
+;Script
+
+;Reins
+
+;Bells
+
+;Saddle
+
+;Ribbon
+
+;Mask
+
+;Food
+
+;Hook
+
+;Float
+
+;Bait
+
+;Finder
+
+;Reel
+
+;Fish
+
+;Quest
+
+;Awakening
+
+;Pets
+
+;Transform
+

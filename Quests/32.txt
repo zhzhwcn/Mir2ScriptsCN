@@ -1,0 +1,32 @@
+[@Description]
+Thankyou, I remember this Ring it used to 
+belong to my grandmother. Please take this Gift 
+back to {Bradly/LimeGreen} to show my gratitude.
+
+[@TaskDescription]
+Please take this {蓝色小药丸/LightSteelBlue} to {Bradly/LimeGreen}
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+
+[@CarryItems]
+蓝色小药丸 1
+
+[@FixedRewards]
+
+[@SelectRewards]
+强化黑色水晶项链
+黑檀吊坠
+黄色水晶吊坠
+
+[@ExpReward]
+219
+
+[@GoldReward]
+75
+
+
+

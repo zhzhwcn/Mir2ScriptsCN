@@ -1,0 +1,27 @@
+[@Description]
+Here's the {蛇胆酒/LightSteelBlue} for {MongchonScout/LimeGreen} as 
+promised. Please enjoy.
+
+[@TaskDescription]
+Deliver the {蛇胆酒/LightSteelBlue} to {MongchonScout/LimeGreen}.
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+
+[@CarryItems]
+蛇胆酒 2
+
+[@FixedRewards]
+青铜短刀 
+
+[@SelectRewards]
+
+[@ExpReward]
+822
+
+[@GoldReward]
+300
+

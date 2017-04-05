@@ -1,0 +1,27 @@
+[@Description]
+Welcome to {Border Village/Yellow} Young traveller.
+Before you get started with your journey
+would you please do me a quick favour? 
+
+[@TaskDescription]
+Transport {食人树叶/LightSteelBlue} to {CraftLady/LimeGreen}
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+
+[@CarryItems]
+食人树叶 5
+
+[@FixedRewards]
+(HP)小型药水
+
+[@SelectRewards]
+
+[@ExpReward]
+10
+
+[@GoldReward]
+

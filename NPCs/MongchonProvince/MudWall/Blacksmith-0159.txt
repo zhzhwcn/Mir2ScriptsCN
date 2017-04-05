@@ -1,0 +1,72 @@
+[@MAIN]
+#IF
+CHECKPKPOINT > 2
+#SAY
+I will not help an evil person like you...
+ 
+ 
+<Close/@exit>
+#ELSEACT
+GOTO @Main-1
+
+[@Main-1]
+#SAY
+Hello, Are you looking for something particular? 
+How can I be of assistance.
+ 
+<View/@BuySell> Store.
+<Repair/@Repair> Weapon.
+ 
+<Close/@exit>
+
+[@BuySell]
+#SAY
+Which item would you like to Buy or Sell?
+<Buy Back/@BuyBack>
+ 
+<Back/@main>
+
+[@BuyBack]
+#SAY
+These are the items still available to purchase back.
+ 
+<Back/@main>
+
+[@Repair]
+#SAY
+Would you like to repair a weapon?
+Show me the weapon that needs it.
+ 
+<Back/@main>
+
+
+[Types]
+1
+14
+
+[Trade]
+木剑
+猎弓
+匕首
+乌木剑
+乌木弓
+青铜剑
+铁弓
+短剑
+Sharp犬牙刀
+弩弓
+铁剑
+青铜斧
+海魂
+八荒
+半月
+音速刀
+杉木铁弓
+黑铁剑
+Prince匕首
+斩马刀
+降魔
+偃月
+黑铁刀
+长弓
+

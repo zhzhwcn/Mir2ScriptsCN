@@ -1,0 +1,31 @@
+[@Description]
+Have you ever heard of {TreePath/Yellow}? It's such a 
+great place to gather resources. Please travel 
+there and collect the materials I require.
+
+[@TaskDescription]
+Please collect 10 {红色丝线's/LightSteelBlue} and {黑色丝线's/LightSteelBlue}
+by killing {天狼蜘蛛's/Crimson} and {黑锷蜘蛛's/Crimson}
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+红色丝线 10
+黑色丝线 10
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+5900
+
+[@GoldReward]
+5900
+
+
+

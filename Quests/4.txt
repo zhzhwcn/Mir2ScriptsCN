@@ -1,0 +1,31 @@
+[@Description]
+You are the traveller {Jane/LimeGreen} recommended.
+Please can you hunt {鹿/Crimson} and bring me some 
+{鹿 肉/LightSteelBlue}. If you want to know more about 
+butchering please press "H".
+
+[@TaskDescription]
+Collect {鹿 肉/LightSteelBlue} by Hunting {鹿's/Crimson}
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+鹿肉0 5
+
+[@CarryItems]
+
+[@FixedRewards]
+古铜戒指
+
+[@SelectRewards]
+
+[@ExpReward]
+80
+
+[@GoldReward]
+20
+
+
+

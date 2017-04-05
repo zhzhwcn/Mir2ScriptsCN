@@ -1,0 +1,25 @@
+[@Description]
+How Deep have you been in {Stone Temple/Yellow}?
+The {白野猪/Crimson} is located on Deep Within.
+
+[@TaskDescription]
+Eliminate the {白野猪/Crimson}.
+
+[@Completion]
+
+[@KillTasks]
+白野猪 1
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+13000
+
+[@GoldReward]
+13000

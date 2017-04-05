@@ -1,0 +1,28 @@
+[@Description]
+Hello traveller. I was returning to {SerpentValley/Yellow}
+from {MongchonProvince/Yellow}. But I was attacked by 
+{恶狼/Crimson} and dropped my bag. My priceless 
+{红翡翠戒指/LightSteelBlue} was in the bag.
+
+[@TaskDescription]
+Find the {红翡翠戒指/LightSteelBlue} from {恶狼/Crimson}.
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+红翡翠戒指 1
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+800
+
+[@GoldReward]
+800
+

@@ -1,0 +1,31 @@
+[@Description]
+I cant really see that well. My sight is getting
+worse as I age. I heard my sight will get better if
+I eat bug eyes. Could you get {BugEyes/LightSteelBlue} for me?
+I hear that {恶魔之眼/Crimson} and {邪魔之眼/Crimson} ones
+are the best.
+
+[@TaskDescription]
+Kill {恶魔之眼/Crimson} and {BluHoroBlaster/Crimson} and Collect 
+12 {虫子眼睛/LightSteelBlue}
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+虫子眼睛 12
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+3800
+
+[@GoldReward]
+3800
+
+

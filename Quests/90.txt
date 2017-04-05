@@ -1,0 +1,26 @@
+[@Description]
+Please head back to {TreePath/Yellow} and gather more 
+{Materials/LightSteelBlue}.
+
+[@TaskDescription]
+Find 5 {古老的树枝/LightSteelBlue} by killing {幻影蜘蛛's/Crimson}.
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+古老的树枝 5
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+7000
+
+[@GoldReward]
+7000
+

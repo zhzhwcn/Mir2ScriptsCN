@@ -1,0 +1,91 @@
+;Gold
+1/10 Gold 600
+
+;Weapons
+
+;Armours
+
+;Helmets
+
+;Necklaces
+
+;Bracelets
+
+;Rings
+1/80 金戒指 
+1/60 骷髅戒指 
+1/110 珊瑚戒指 
+1/100 降妖除魔戒指 
+1/500 镀金戒指 
+1/500 封魔戒指 
+1/500 御灵戒指 
+
+;Amulets
+
+;Belts
+
+;Boots
+
+;Stones
+
+;Torches
+
+;Potions
+1/10 (HP)中型药水 
+1/10 (MP)中型药水 
+1/30 (HP)大型药水 
+1/30 (MP)大型药水 
+1/20 太阳水 
+1/60 超级太阳水 
+
+;Ores
+
+;Meat
+
+;Crafting Materials
+
+;Scrolls
+1/200 回城卷 
+
+;Gems
+
+;Mount
+
+;Books
+
+;Nothing
+
+;Script
+
+;Reins
+
+;Bells
+
+;Saddle
+
+;Ribbon
+
+;Mask
+
+;Food
+
+;Hook
+
+;Float
+
+;Bait
+
+;Finder
+
+;Reel
+
+;Fish
+
+;Quest
+
+;Awakening
+
+;Pets
+
+;Transform
+

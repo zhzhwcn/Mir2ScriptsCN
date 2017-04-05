@@ -1,0 +1,27 @@
+[@Description]
+I got attacked a couple days ago, and I got 
+poisoned. I bought the {解毒剂/LightSteelBlue} but the mobs 
+took my bag. 
+
+[@TaskDescription]
+Kill {多足虫's/Crimson} and find {Soho's/LimeGreen} {解毒剂/LightSteelBlue}
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+解毒剂 1
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+3800
+
+[@GoldReward]
+3800
+

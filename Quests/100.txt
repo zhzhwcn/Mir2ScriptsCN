@@ -1,0 +1,36 @@
+[@Description]
+We have been receiving new report's.
+There is a New type of creature in the {Temple/Yellow}.
+
+[@TaskDescription]
+Eliminate 30 {沃玛战将's/Crimson} and a 
+{WoomaGaurdian/Crimson} and return his {Horn/LightSteelBlue}.
+
+[@Completion]
+
+[@KillTasks]
+沃玛战将 30
+沃玛护卫 1
+
+[@ItemTasks]
+沃玛号角1 1
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+强化蓝色翡翠项链
+强化魅力戒指
+强化道德戒指
+
+[@ExpReward]
+11000
+
+[@GoldReward]
+11000
+
+
+
+
+

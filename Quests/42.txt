@@ -1,0 +1,32 @@
+[@Description]
+Hello young Mirian, I'm planning going to
+{MongchonProvince/Yellow} frequently, but i haven't left
+this town because of the snake on the way. 
+Do you think you can eliminate some of those 
+snakes?
+
+[@TaskDescription]
+Eliminate 15 {红色毒蛇/Crimson} and {花斑毒蛇's/Crimson}
+
+[@Completion]
+
+[@KillTasks]
+红色毒蛇 15
+花斑毒蛇 15
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+强化青铜斧
+
+[@SelectRewards]
+
+[@ExpReward]
+1200
+
+[@GoldReward]
+300
+
+

@@ -1,0 +1,32 @@
+[@Description]
+Hello traveller. You are quite famous around 
+here. Could you help me as well? 
+The demand for 药 has been increasing, 
+and we are short on the ingredients for the 
+药. We are especially short on {网's/LightSteelBlue} 
+which can be found from {SpittingSpiders/Crimson} could you 
+please get some for me?
+
+[@TaskDescription]
+Please collect 10 {网's/LightSteelBlue} from {毒蜘蛛's/Crimson}
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+网 10
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+500
+
+[@GoldReward]
+500
+
+

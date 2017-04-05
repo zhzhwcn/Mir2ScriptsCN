@@ -1,0 +1,30 @@
+[@Description]
+Hello Mirian, We push these {Zombie's/Crimson} back quite 
+frequently. Could you render your assistance?
+ 
+[@TaskDescription]
+Eliminate {诅咒僵尸/Crimson}, {饿鬼僵尸/Crimson} and 
+{愤怒僵尸's/Crimson} in {MineralMines/Yellow}.
+
+[@Completion]
+
+[@KillTasks]
+诅咒僵尸 50 "Eliminate the 诅咒僵尸 Threat"
+饿鬼僵尸 30 "Reduce the 饿鬼僵尸's"
+愤怒僵尸 25 "Eliminate the 愤怒僵尸 Threat"
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+15000
+
+[@GoldReward]
+15000
+
+

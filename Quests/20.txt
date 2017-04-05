@@ -1,0 +1,34 @@
+[@Description]
+A Recommendation.. Thats a first.
+We need all that is able to help with this war.
+Whether they join the 大刀卫士 or not.
+Please can you assist me with something.
+
+[@TaskDescription]
+Eliminate 10 {半兽人's/Crimson} and {钉耙猫's/Crimson}
+
+[@Completion]
+
+[@KillTasks]
+半兽人 10
+钉耙猫 10
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+布鞋
+必中闪
+
+[@SelectRewards]
+
+[@ExpReward]
+180
+
+[@GoldReward]
+45
+
+
+
+

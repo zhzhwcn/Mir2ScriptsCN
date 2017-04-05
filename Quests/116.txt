@@ -1,0 +1,33 @@
+[@Description]
+Please report to my Commanding Officer in 
+{BichonProvince/Yellow}.
+
+[@TaskDescription]
+Report to {SubjugationManager/LimeGreen} 
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+强化炼狱
+强化魔杖
+强化银蛇
+强化两仪刀
+强化满义弓
+
+[@ExpReward]
+6688
+
+[@GoldReward]
+13000
+
+
+
+

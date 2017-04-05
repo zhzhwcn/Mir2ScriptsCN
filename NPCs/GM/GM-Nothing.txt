@@ -1,0 +1,36 @@
+[@Main]
+#SAY
+Hello {<$USERNAME>/KHAKI}, my name is {<$NPCNAME>/KHAKI}.
+ 
+<Buy/@Buy> Nothing!
+<Sell/@Sell> Nothing!
+
+[@Buy]
+#SAY
+Buy.
+ 
+<Back/@Main>
+
+
+[@Sell]
+#SAY
+Sell.
+ 
+<Back/@Main>
+
+
+[Types]
+0
+
+[Trade]
+金条
+金条Bundle
+金盒
+筹码
+投资
+神秘宝珠
+入场宝珠
+积分券
+守护宝珠
+比奇勋章
+时空宝石碎片

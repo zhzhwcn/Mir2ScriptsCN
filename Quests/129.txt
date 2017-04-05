@@ -1,0 +1,26 @@
+[@Description]
+Please travel to the {RedValley/Yellow} and collect the
+Ingredient's. 
+
+[@TaskDescription]
+Kill {月魔蜘蛛/Crimson} and collect 20 {蝙蝠毒药/LightSteelBlue}.
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+蝙蝠毒药 20
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+33000
+
+[@GoldReward]
+33000
+

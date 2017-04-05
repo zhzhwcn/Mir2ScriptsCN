@@ -1,0 +1,35 @@
+[@Description]
+Travel deep within {RedValley/Yellow} and Slay the
+{赤月恶魔/Crimson}.
+
+[@TaskDescription]
+Eliminate the {赤月恶魔/Crimson}.
+
+[@Completion]
+
+[@KillTasks]
+赤月恶魔 1
+
+[@ItemTasks]
+
+[@FlagTasks]
+
+[@CarryItems]
+恶魔脑浆 2
+恶魔心脏 2
+
+[@FixedRewards]
+
+[@SelectRewards]
+赤月魔剑
+赤月双刀
+赤月魔弓
+
+[@ExpReward]
+
+[@GoldReward]
+
+
+
+
+

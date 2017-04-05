@@ -1,0 +1,28 @@
+[@Description]
+The Howling oh the Howling.. Search for the 
+Source and Kill the creature.
+
+[@TaskDescription]
+Eliminate the {半兽勇士/Crimson}.
+
+[@Completion]
+
+[@KillTasks]
+半兽勇士 1
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+强化黑铁腰带 
+
+[@SelectRewards]
+
+[@ExpReward]
+8200
+
+[@GoldReward]
+2050
+
+

@@ -1,0 +1,26 @@
+[@Description]
+After searching the {CrushedBone's/LimeGreen} it's missing 
+the {绿翡翠戒指/LightSteelBlue}.
+
+[@TaskDescription]
+Retrieve the {绿翡翠戒指/LightSteelBlue} by killing {天狼蜘蛛/Crimson}.
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+绿翡翠戒指 1
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+7000
+
+[@GoldReward]
+7000
+

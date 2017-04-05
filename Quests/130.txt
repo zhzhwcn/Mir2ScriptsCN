@@ -1,0 +1,24 @@
+[@Description]
+Are you interested in a Bounty?
+
+[@TaskDescription]
+Find and Eliminate {地狱巨人/LightSteelBlue} in {RedValley/Yellow}.
+
+[@Completion]
+
+[@KillTasks]
+地狱巨人 1
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+40000
+
+[@GoldReward]
+40000

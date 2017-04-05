@@ -1,0 +1,33 @@
+[@Description]
+{Assistant Jane/LimeGreen} sent you? 
+I can't reject anyone that she has recommended, 
+but I cant accept just anyone as my disciple. 
+You will have to pass my test.
+
+[@TaskDescription]
+Eliminate 10 {半兽人's/Crimson} and {钉耙猫's/Crimson}
+
+[@Completion]
+
+[@KillTasks]
+半兽人 10
+钉耙猫 10
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+布鞋
+基本剑术
+
+[@SelectRewards]
+
+[@ExpReward]
+180
+
+[@GoldReward]
+45
+
+
+

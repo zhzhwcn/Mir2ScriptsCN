@@ -1,0 +1,32 @@
+[@Description]
+There have been icreasing numbers of 
+{SpittlingSpider's/Crimson} around the town. This monster 
+is poisonous and the 解毒剂 can only be made 
+from the {毒药包/LightSteelBlue}.
+
+[@TaskDescription]
+Please find {毒药包's/LightSteelBlue} by hunting 
+{毒蜘蛛's/Crimson}.
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+毒药包 10
+
+[@CarryItems]
+
+[@FixedRewards]
+强化兽皮腰带
+
+[@SelectRewards]
+
+[@ExpReward]
+500
+
+[@GoldReward]
+125
+
+
+

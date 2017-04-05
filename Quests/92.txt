@@ -1,0 +1,37 @@
+[@Description]
+There's been a Monster Kill Order issued. 
+Please carry out this Order.
+
+[@TaskDescription]
+Eliminate 4 {钢牙蜘蛛/Crimson}, {幻影蜘蛛/Crimson} 5 
+{花吻蜘蛛/Crimson} and {黑锷蜘蛛's/Crimson}.
+
+[@Completion]
+
+[@KillTasks]
+钢牙蜘蛛 4
+幻影蜘蛛 5
+花吻蜘蛛 5
+黑锷蜘蛛 5
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+ThickArmour
+FireMagicRobe
+TaoArmour
+SpiritRobe
+LeatherArmour
+
+[@ExpReward]
+7100
+
+[@GoldReward]
+7100
+
+
+

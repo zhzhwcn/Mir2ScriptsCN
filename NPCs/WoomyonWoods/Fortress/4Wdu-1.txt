@@ -1,0 +1,64 @@
+[@MAIN]
+#IF
+CHECKPKPOINT > 2
+#SAY
+I will not help an evil person like you...
+ 
+ 
+<Close/@exit>
+#ELSEACT
+GOTO @Main-1
+
+[@Main-1]
+#SAY
+Hello traveller, How may I help you?
+ 
+<View/@BuySell> Store. 
+ 
+<Close/@exit>
+
+[@BuySell]
+#SAY
+What Item would you like to buy or sell?
+<BuyBack/@BuyBack>
+ 
+<Back/@Main>
+
+[@BuyBack]
+#SAY
+These are the items still available to purchase back.
+ 
+<Back/@Main>
+
+[Types]
+8
+12
+13
+
+[Trade]
+(HP)中型药水 1
+(HP)中型药水 5
+(HP)中型药水 10
+(MP)中型药水 1
+(MP)中型药水 5
+(MP)中型药水 10
+(HP)大型药水 1
+(HP)大型药水 5
+(HP)大型药水 10
+(MP)大型药水 1
+(MP)大型药水 5
+(MP)大型药水 10
+蜡烛
+火把
+随机传送卷
+地牢逃脱卷
+护身符
+
+[Quests]
+67
+-67
+68
+-68
+69
+-72
+73

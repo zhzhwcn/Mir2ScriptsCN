@@ -1,0 +1,40 @@
+[@Description]
+The materials I need for making weapons
+can be found in {DeadMineEntrance/Yellow}, but the area 
+is infested with {Zombies/Crimson}. 
+
+[@TaskDescription]
+Eliminate {Zombie's/Crimson} in the {Mines/Yellow}.
+
+[@Completion]
+
+[@KillTasks]
+僵尸5 5
+僵尸2 5
+僵尸3 5
+僵尸4 5
+电僵尸1 5
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+强化魔鬼项链
+强化琥珀项链
+强化凤凰明珠
+
+[@ExpReward]
+2700
+
+[@GoldReward]
+675
+
+
+
+
+
+
+

@@ -1,0 +1,32 @@
+[@Description]
+Welcome to {MongchonProvince/Yellow}. 
+We have been getting attacked by Boar looking 
+monsters. We got reports that these mobs are 
+coming from the {Underground Tomb/Yellow}. Can you 
+go there and eliminate the monsters?
+
+[@TaskDescription]
+Eliminate 15 {黑野猪/Crimson} and {红野猪's/Crimson} in 
+{StoneTomb/Yellow}
+
+[@Completion]
+
+[@KillTasks]
+黑野猪 15
+红野猪 15
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+13500
+
+[@GoldReward]
+13500
+
+

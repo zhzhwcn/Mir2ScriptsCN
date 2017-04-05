@@ -1,0 +1,25 @@
+[@Description]
+Travel through {TreePath/Yellow} and enter the {RedValley/Yellow}
+
+[@TaskDescription]
+Retrieve the {翡翠水晶/LightSteelBlue} by killing {BigApes/Crimson}.
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+翡翠水晶 1
+
+[@FlagTasks]
+530 "Travel to RedValley_5F and Take the 翡翠水晶 to BigTaoist"
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+
+[@GoldReward]

@@ -1,0 +1,31 @@
+[@Description]
+Traveller.. I still think its to dangerous outside.
+Can you do a another favour for me?
+
+[@TaskDescription]
+Eliminate 10 {多钩猫's/Crimson}
+
+[@Completion]
+
+[@KillTasks]
+多钩猫 10
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+青铜剑
+强化犬牙刀
+强化猎弓
+
+[@ExpReward]
+150
+
+[@GoldReward]
+38
+
+
+

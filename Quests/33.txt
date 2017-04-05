@@ -1,0 +1,29 @@
+[@Description]
+Please help me. I recently moved here, and i see 
+Snakes everywhere! I cant go to sleep knowing 
+the Snakes are crawling under my bed.
+
+[@TaskDescription]
+Please eliminate 10 {红蛇/Crimson} and {虎蛇's/Crimson}.
+
+[@Completion]
+
+[@KillTasks]
+虎蛇 10
+红蛇 10
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+SolidArmour
+
+[@ExpReward]
+1000
+
+[@GoldReward]
+250
+

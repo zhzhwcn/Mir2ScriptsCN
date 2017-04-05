@@ -1,0 +1,29 @@
+[@Description]
+{红蛇/Crimson} bite? Please tell {Robert/LimeGreen} that the Teeth
+of the {红蛇/Crimson} is the main ingredient for the 
+cure. You don't have much time. Go and kill some 
+{红蛇's/Crimson} for the Teeth.
+
+[@TaskDescription]
+Collect {红蛇牙齿/LightSteelBlue} for the Cure
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+红蛇牙齿 1
+
+[@CarryItems]
+
+[@FixedRewards]
+BoxofHolyWater(3)
+
+[@SelectRewards]
+
+[@ExpReward]
+1200
+
+[@GoldReward]
+300
+

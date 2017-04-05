@@ -1,0 +1,45 @@
+[@Main]
+#SAY
+Hello {<$USERNAME>/KHAKI}, my name is {<$NPCNAME>/KHAKI}.
+I see you're holding: {<$TORCH>/CORAL}
+ 
+<Buy/@Buy> Grocery
+<Sell/@Sell> Grocery
+
+[@Buy]
+#SAY
+Buy.
+ 
+<Back/@Main>
+
+[@Sell]
+#SAY
+Sell.
+ 
+<Back/@Main>
+
+
+[Types]
+8
+12
+17
+
+[Trade]
+蜡烛
+火把
+大火把
+Peddler火把
+Dragon火把
+修复油
+战神油
+幸运药水
+随机传送卷
+地牢逃脱卷
+回城卷
+行会回城卷
+彩票
+Anc瞬息移动
+绿色药粉
+黄色药粉
+护身符
+护身符OfRevival

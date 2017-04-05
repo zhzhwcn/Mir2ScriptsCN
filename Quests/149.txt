@@ -1,0 +1,35 @@
+[@Description]
+Now, let me test you once more
+Pass through an ordeal I have prepared and bring me some
+恶魔脑浆. If you do this, then I'll tell you the way to
+get the 赤月魔剑
+
+[@TaskDescription]
+
+[@Completion]
+What is in the bottle is the foul blood of a 赤月恶魔 I killed...
+If you disguised yourself as a demon of a man by
+smearing it on your clothes and holding an EvilHeart
+You can get the 赤月魔剑. To kill the 赤月恶魔 and
+To get rid of the origin of the demon depends upon you.
+It is hard for you to kill a 赤月恶魔 alone,
+Band together with many other heroes..
+
+[@KillTasks]
+
+[@ItemTasks]
+恶魔脑浆 1
+
+[@FlagTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+
+[@GoldReward]
+
+

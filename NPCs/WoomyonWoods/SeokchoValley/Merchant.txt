@@ -1,0 +1,122 @@
+[@MAIN]
+#IF
+CHECKPKPOINT > 2
+#SAY
+I will not help an evil person like you...
+ 
+ 
+<Close/@exit>
+#ELSEACT
+GOTO @Main-1
+
+[@Main-1]
+#SAY
+Welcome, What can I do for you?
+ 
+<View/@BuySell> Store.
+<Repair/@Repair> Item.
+ 
+<Close/@exit>
+
+[@BuySell]
+#SAY
+Which item would you like to Buy or Sell?
+<Buy Back/@BuyBack>
+ 
+<Back/@main>
+
+[@BuyBack]
+#SAY
+These are the items still available to purchase back.
+ 
+<Back/@main>
+
+[@Repair]
+#SAY
+You can repair various kinds of Items.
+  
+<Back/@main>
+
+[Types]
+1
+2
+4
+5
+6
+7
+9
+10
+14
+
+[Trade]
+(HP)小型药水 1
+(HP)小型药水 5
+(HP)小型药水 10
+(MP)小型药水 1
+(MP)小型药水 5
+(MP)小型药水 10
+(HP)中型药水 1
+(HP)中型药水 5
+(HP)中型药水 10
+(MP)中型药水 1
+(MP)中型药水 5
+(MP)中型药水 10
+木剑
+猎弓
+匕首
+乌木剑
+乌木弓
+青铜剑
+铁弓
+短剑
+Sharp犬牙刀
+弩弓
+铁剑
+青铜斧
+海魂
+八荒
+半月
+音速刀
+杉木铁弓
+黑铁斧
+黑铁剑
+Prince匕首
+斩马刀
+降魔
+偃月
+轻型盔甲(男)
+轻型盔甲(女)
+重盔甲(男)
+重盔甲(女)
+灵魂战衣(男)
+灵魂战衣(女)
+魔法长袍(男)
+魔法长袍(女)
+残影魔衣(男)
+残影魔衣(女)
+黑魂战衣(男)
+黑魂战衣(女)
+青铜头盔
+魔法头盔
+黄铜头盔
+兽皮腰带
+青铜腰带
+布靴
+皮靴
+魔鬼项链
+PheonixBead
+琥珀项链
+灯笼项链
+牛角戒指
+生铁戒指
+白玉戒指
+蓝色水晶戒指
+黑色水晶戒指
+蛇眼戒指
+珍珠戒指
+金戒指
+钢手镯
+大手镯
+铂金手镯
+道士手镯
+黑檀手镯

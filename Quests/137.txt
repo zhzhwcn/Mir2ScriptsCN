@@ -1,0 +1,25 @@
+[@Description]
+Is it true? Youve been to the {Ancient Layer/Yellow}? Can
+you return and Collect 17 {回血丸/LightSteelBlue} by killing 
+{AncientSnakeScorpion's/Crimson}
+
+[@TaskDescription]
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+回血丸 17
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+88500
+
+[@GoldReward]
+88500

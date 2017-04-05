@@ -1,0 +1,61 @@
+[@Main]
+#SAY
+Hello {<$USERNAME>/KHAKI}, my name is {<$NPCNAME>/KHAKI}.
+I see you have: {<$MOUNT>/CORAL}
+You need to be 22 for mounts, your level: {<$LEVEL>/ORANGE}
+ 
+<Buy/@Buy> Mount Equipment
+<Sell/@Sell> Mount Equipment
+
+[@Sell]
+#SAY
+Sell.
+ 
+<Back/@Main>
+
+[@Buy]
+#SAY
+Buy.
+ 
+<Back/@Main>
+
+
+[Types]
+19
+22
+23
+24
+25
+26
+27
+
+[Trade]
+棕色老虎坐骑
+蓝色老虎坐骑
+黑色猎豹坐骑
+白色猎豹坐骑
+花斑虎坐骑
+红色老虎坐骑
+白色老虎坐骑
+战狼坐骑
+Brown战狼坐骑
+Blue战狼坐骑
+Black战狼坐骑
+White战狼坐骑
+皮制缰绳
+金色缰绳
+青铜铃铛
+白银铃铛
+金色铃铛
+绿色铃铛
+马鞍
+红色蝴蝶结
+蓝色蝴蝶机
+黑色蝴蝶结
+皮面具
+白色面具
+黑色面具
+白银面具
+泰坦面具
+生肉饲料
+高级生肉饲料

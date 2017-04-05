@@ -1,0 +1,24 @@
+[@Description]
+A Scroll with a description. It must be important.
+
+[@TaskDescription]
+Deliver the {隐藏的卷轴/LightSteelBlue} to {Dr.Kim/LimeGreen}.
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+
+[@CarryItems]
+隐藏的卷轴 2 
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+2382
+
+[@GoldReward]
+3600

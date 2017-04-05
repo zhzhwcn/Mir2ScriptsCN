@@ -1,0 +1,30 @@
+[@Description]
+There seem's to be a lot of Zombie's presence 
+lately. Head West to the {MineralMines/Yellow}.
+ 
+[@TaskDescription]
+Eliminate 10 {诅咒祭祀/Crimson}, {饿鬼僵尸/Crimson}, 
+{诅咒僵尸's/Crimson}.
+
+[@Completion]
+
+[@KillTasks]
+诅咒祭祀 10
+饿鬼僵尸 10
+诅咒僵尸 10
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+6600
+
+[@GoldReward]
+6600
+
+

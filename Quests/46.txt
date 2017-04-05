@@ -1,0 +1,41 @@
+[@Description]
+{OmaCave/Yellow} are located in the west part of 
+{BichonProvince/Yellow}. This cave is filled with strong 
+monsters. It's very 黑暗战士 and almost like a maze 
+inside. Do you think you are ready to show your 
+courage?
+
+[@TaskDescription]
+Kill {骷髅's/Crimson} in {OmaCave/Yellow} and Collect 
+{一堆骨头's/LightSteelBlue}
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+一堆骨头 15
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+强化八荒
+强化海魂
+强化半月
+强化利刃刀
+坚韧木工
+
+[@ExpReward]
+1400
+
+[@GoldReward]
+350
+
+
+
+
+
+
+

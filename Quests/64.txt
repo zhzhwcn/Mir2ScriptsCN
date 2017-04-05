@@ -1,0 +1,30 @@
+[@Description]
+That body seems to be one {Vincent/LimeGreen} is looking 
+for. The necklace matches the description 
+{Vincent/LimeGreen} gave.
+
+[@TaskDescription]
+Return the {破损的项链/LightSteelBlue} to {Vincent/LimeGreen}.
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+
+[@CarryItems]
+破损的项链 1
+
+[@FixedRewards]
+
+[@SelectRewards]
+强化坚固手套
+强化魔法手镯
+
+[@ExpReward]
+3616
+
+[@GoldReward]
+935
+
+

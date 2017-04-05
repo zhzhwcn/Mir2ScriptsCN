@@ -1,0 +1,29 @@
+[@Description]
+{邪魔之眼/Crimson} is in {InsectCave/Yellow}. The blood of
+this bug can be purified to be used as a 
+药. Could you bring me 12 {昆虫血液/LightSteelBlue}?
+
+[@TaskDescription]
+Kill {邪魔之眼's/Crimson} in {InsectCave/Yellow} and collect 12 
+{昆虫血液/LightSteelBlue}
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+昆虫血液 12
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+3800
+
+[@GoldReward]
+3800
+
+

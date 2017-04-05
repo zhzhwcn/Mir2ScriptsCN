@@ -1,0 +1,29 @@
+[@Description]
+Hello traveller. I also need some fruit to make 
+this 老酒. Could you get me 10 {黑檀果实/LightSteelBlue}.
+
+[@TaskDescription]
+Please collect 10 {黑檀果实/LightSteelBlue}
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+乌木（水果） 10
+
+[@CarryItems]
+
+[@FixedRewards]
+强化青铜头盔
+
+[@SelectRewards]
+
+[@ExpReward]
+1000
+
+[@GoldReward]
+250
+
+
+

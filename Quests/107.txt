@@ -1,0 +1,35 @@
+[@Description]
+Please return my {LifeStone/LightSteelBlue} to my Daughter
+{Rachel/LimeGreen}. She will know what it will mean.
+
+Thankyou for your assistance I'm now at peace.
+
+[@TaskDescription]
+Please take {破损的项链/LightSteelBlue} to {Rachel/LimeGreen}.
+in {MongchonProvince/Yellow}
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+
+[@CarryItems]
+破损的项链 1
+
+[@FixedRewards]
+强化黑铁战靴
+
+[@SelectRewards]
+强化幽灵项链
+强化放大镜
+强化竹笛
+
+[@ExpReward]
+3801
+
+[@GoldReward]
+1781
+
+
+
+

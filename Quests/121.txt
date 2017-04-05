@@ -1,0 +1,28 @@
+[@Description]
+We have been getting more attacks from the monsters lately. 
+Do you think you can eliminate the threat? 
+
+[@TaskDescription]
+Travel the Island and Eliminate 15 {恶灵尸王's/Crimson} 
+and 10 {恶灵僵尸's/Crimson}.
+
+[@Completion]
+
+[@KillTasks]
+恶灵尸王 15
+恶灵僵尸 10
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+18500
+
+[@GoldReward]
+18500
+

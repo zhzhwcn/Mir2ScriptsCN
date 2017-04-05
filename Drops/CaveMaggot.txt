@@ -1,0 +1,10 @@
+;Gold
+1/5 Gold 100
+
+;Crafting Materials
+1/2 蛆卵 
+1/10 蛆卵 
+
+;Quest
+1/4 遗骸 Q
+1/10 Olivias戒指 Q

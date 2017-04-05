@@ -1,0 +1,37 @@
+[@Description]
+Hello traveller. Thankyou for coming.
+The reason I asked for you was to get some
+help keeping {WoomyonWoods/Yellow} safe. You 
+probably have seen some {食人花's/Crimson} 
+on the way here from {BichonWall/Yellow}. We need 
+to hunt them down to keep merchants safe 
+from dangerous attacks.
+
+[@TaskDescription]
+Please collect 10 {食人花茎/LightSteelBlue} and 
+{CannibalLeafs/LightSteelBlue} From {食人花's/Crimson} and deliver 
+to {MirGuide/LimeGreen} in {BichonWall/Yellow}
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+食人花茎 10
+食人花树叶 10
+
+[@CarryItems]
+
+[@FixedRewards]
+强化钢手镯
+
+[@SelectRewards]
+
+[@ExpReward]
+450
+
+[@GoldReward]
+113
+
+
+

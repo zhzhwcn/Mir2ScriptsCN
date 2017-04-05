@@ -1,0 +1,432 @@
+[@main]
+Hello traveler, I'm the craft NPC for this cave.
+What can I help you with?
+
+<Craft Items/@craft>.
+<Close/@exit>
+
+
+[@craft]
+#SAY
+The following are the items i can forge.
+
+- AncientHeavyArmour  <Forge/@arm1>
+- AncientRobe         <Forge/@arm2>
+- AncientPlate        <Forge/@arm3>
+- AncientSuit         <Forge/@arm4>
+- 陈旧的皮革      <Forge/@arm5>
+   
+* It will cost 20,000 Gold to forge an item.
+
+<Exit/@exit>
+
+[@arm1]
+#SAY
+* AncientHeavyArmour
+* Defense stats : Ac 6-20 - Amc 3-7 - Dc 0-1 - Hp +10.
+* Items required for forging,
+- 40 生锈的铠甲
+- 34 犀牛皮
+- 32 Mammoth皮
+- 30 Large骨头
+- 12 铠甲制作书(攻击力)
+- 10 白金
+-  5 强力绳索
+
+<Forge Now/@arm12>    <Back/@main>
+
+[@arm12]
+#IF
+GENDER MALE
+CHECKGOLD > 20000
+CHECKITEM 生锈的铠甲 40
+CHECKITEM 犀牛皮 34
+CHECKITEM Mammoth皮 32
+CHECKITEM Large骨头 30
+CHECKITEM 铠甲制作书(攻击力) 12
+CHECKITEM 白金 10
+CHECKITEM 强力绳索 5
+#ACT
+TAKEGOLD 20000
+TAKEITEM 生锈的铠甲 40
+TAKEITEM 犀牛皮 34
+TAKEITEM Mammoth皮 32
+TAKEITEM Large骨头 30
+TAKEITEM 铠甲制作书(攻击力) 12
+TAKEITEM 白金 10
+TAKEITEM 强力绳索 5
+GIVEITEM Ancient重盔甲(男) 1
+LINEMESSAGE "You have forged AncientHeavyArmour." Hint
+BREAK
+CLOSE
+
+#ELSEACT
+GOTO @arm12F
+
+[@arm12F]
+#IF
+CHECKGOLD > 20000
+CHECKITEM 生锈的铠甲 40
+CHECKITEM 犀牛皮 34
+CHECKITEM Mammoth皮 32
+CHECKITEM Large骨头 30
+CHECKITEM 铠甲制作书(攻击力) 12
+CHECKITEM 白金 10
+CHECKITEM 强力绳索 5
+#ACT
+TAKEGOLD 20000
+TAKEITEM 生锈的铠甲 40
+TAKEITEM 犀牛皮 34
+TAKEITEM Mammoth皮 32
+TAKEITEM Large骨头 30
+TAKEITEM 铠甲制作书(攻击力) 12
+TAKEITEM 白金 10
+TAKEITEM 强力绳索 5
+GIVEITEM Ancient重盔甲(女) 1
+LINEMESSAGE "You have forged AncientHeavyArmour." Hint
+BREAK
+CLOSE
+
+#ELSESAY
+You don't have enough ingredients.
+Please check again.In order to make the AncientHeavyArmour,
+* Items required for forging,
+- 40 生锈的铠甲
+- 34 犀牛皮
+- 32 Mammoth皮
+- 30 Large骨头
+- 12 铠甲制作书(攻击力)
+- 10 白金
+-  5 强力绳索
+
+<Back/@main>
+              
+[@arm2]
+#SAY
+* AncientRobe
+* Defense stats : Ac 4-14 - Amc 5-8 - Mc 0-7 - Hp +10. 
+* Items required for forging, 
+- 40 生锈的铠甲
+- 34 兽皮
+- 32 亡灵之皮
+- 30 Large骨头
+- 12 铠甲制作书(魔法力)
+- 10 白金
+-  5 强力绳索
+
+<Forge Now/@arm23>    <Back/@main>
+
+
+[@arm23]
+#IF
+GENDER MALE
+CHECKGOLD > 20000
+CHECKITEM 生锈的铠甲 40
+CHECKITEM 兽皮 34
+CHECKITEM 亡灵之皮 32
+CHECKITEM Large骨头 30
+CHECKITEM 铠甲制作书(魔法力) 12
+CHECKITEM 白金 10
+CHECKITEM 强力绳索 5
+#ACT
+TAKEGOLD 20000
+TAKEITEM 生锈的铠甲 40
+TAKEITEM 兽皮 34
+TAKEITEM 亡灵之皮 32
+TAKEITEM Large骨头 30
+TAKEITEM 铠甲制作书(魔法力) 12
+TAKEITEM 白金 10
+TAKEITEM 强力绳索 5
+GIVEITEM AncientRobe(M) 1
+LINEMESSAGE "You have forged AncientRobe." Hint
+BREAK
+CLOSE
+
+#ELSEACT
+GOTO @arm23F
+
+[@arm23F]
+#IF
+CHECKGOLD > 20000
+CHECKITEM 生锈的铠甲 40
+CHECKITEM 兽皮 34
+CHECKITEM 亡灵之皮 32
+CHECKITEM Large骨头 30
+CHECKITEM 铠甲制作书(魔法力) 12
+CHECKITEM 白金 10
+CHECKITEM 强力绳索 5
+#ACT
+TAKEGOLD 20000
+TAKEITEM 生锈的铠甲 40
+TAKEITEM 兽皮 34
+TAKEITEM 亡灵之皮 32
+TAKEITEM Large骨头 30
+TAKEITEM 铠甲制作书(魔法力) 12
+TAKEITEM 白金 10
+TAKEITEM 强力绳索 5
+GIVEITEM AncientRobe(F) 1
+LINEMESSAGE "You have forged AncientRobe." Hint
+BREAK
+CLOSE
+
+#ELSESAY
+You don't have enough ingredients.
+Please check again.In order to make the AncientRobe, 
+* Items required for forging, 
+- 40 生锈的铠甲
+- 34 兽皮
+- 32 亡灵之皮
+- 30 Large骨头
+- 12 铠甲制作书(魔法力)
+- 10 白金
+-  5 强力绳索   
+
+<Back/@main>   
+
+
+[@arm3]
+#SAY
+* AncientPlate
+* Defense stats : Ac 6-15 - Amc 5-10 - Sc 0-6 - Hp +10. 
+* Items required for forging, 
+- 40 生锈的铠甲
+- 34 恶魔之皮
+- 32 光滑毛皮
+- 30 Large骨头
+- 12 铠甲制作书(精神力)
+- 10 白金
+-  5 强力绳索
+
+<Forge Now/@arm33>    <Back/@main>
+
+
+[@arm33]
+#IF
+GENDER MALE
+CHECKGOLD > 20000
+CHECKITEM 生锈的铠甲 40
+CHECKITEM 恶魔之皮 34
+CHECKITEM 光滑毛皮 32
+CHECKITEM Large骨头 30
+CHECKITEM 铠甲制作书(精神力) 12
+CHECKITEM 白金 10
+CHECKITEM 强力绳索 5
+#ACT
+TAKEGOLD 20000
+TAKEITEM 生锈的铠甲 40
+TAKEITEM 恶魔之皮 34
+TAKEITEM 光滑毛皮 32
+TAKEITEM Large骨头 30
+TAKEITEM ArmourBookSC) 12
+TAKEITEM 白金 10
+TAKEITEM 强力绳索 5
+GIVEitem AncientPlate(M) 1
+LINEMESSAGE "You have forged AncientPlate." Hint
+BREAK
+CLOSE
+
+#ELSEACT
+GOTO @arm33F
+
+[@arm33F]
+#IF
+CHECKGOLD > 20000
+CHECKITEM 生锈的铠甲 40
+CHECKITEM 恶魔之皮 34
+CHECKITEM 光滑毛皮 32
+CHECKITEM Large骨头 30
+CHECKITEM 铠甲制作书(精神力) 12
+CHECKITEM 白金 10
+CHECKITEM 强力绳索 5
+#ACT
+TAKEGOLD 20000
+TAKEITEM 生锈的铠甲 40
+TAKEITEM 恶魔之皮 34
+TAKEITEM 光滑毛皮 32
+TAKEITEM Large骨头 30
+TAKEITEM 铠甲制作书(精神力) 12
+TAKEITEM 白金 10
+TAKEITEM 强力绳索 5
+GIVEITEM AncientPlate(F) 1
+LINEMESSAGE "You have forged AncientPlate." Hint
+BREAK
+CLOSE
+
+#ELSESAY
+You don't have enough ingredients.
+Please check again.In order to make the AncientPlate, 
+* Items required for forging, 
+- 40 生锈的铠甲
+- 34 恶魔之皮
+- 32 光滑毛皮
+- 30 Large骨头
+- 12 铠甲制作书(精神力)
+- 10 白金
+-  5 强力绳索   
+
+<Back/@main>
+
+
+[@arm4]
+#SAY
+* AncientSuit
+* Defense stats : Ac 6-15 - Amc 5-10 - Dc 0-1 - Hp +10. 
+* Items required for forging, 
+- 40 生锈的铠甲
+- 34 Mammoth皮
+- 32 猩猩皮
+- 30 Large骨头
+- 12 铠甲制作书(攻击力)
+- 10 白金
+-  5 强力绳索
+
+<Forge Now/@arm43>    <Back/@main>
+
+
+[@arm43]
+#IF
+GENDER MALE
+CHECKGOLD > 20000
+CHECKITEM 生锈的铠甲 40
+CHECKITEM Mammoth皮 34
+CHECKITEM 猩猩皮 32
+CHECKITEM Large骨头 30
+CHECKITEM 铠甲制作书(攻击力) 12
+CHECKITEM 白金 10
+CHECKITEM 强力绳索 5
+#ACT
+TAKEGOLD 20000
+TAKEITEM 生锈的铠甲 40
+TAKEITEM Mammoth皮 34
+TAKEITEM 猩猩皮 32
+TAKEITEM Large骨头 30
+TAKEITEM 铠甲制作书(攻击力) 12
+TAKEITEM 白金 10
+TAKEITEM 强力绳索 5
+GIVEITEM AncientSuit(M) 1
+LINEMESSAGE "You have forged AncientSuit." Hint
+BREAK
+CLOSE
+
+#ELSEACT
+GOTO @arm43F
+
+[@arm43F]
+#IF
+CHECKGOLD > 20000
+CHECKITEM 生锈的铠甲 40
+CHECKITEM Mammoth皮 34
+CHECKITEM 猩猩皮 32
+CHECKITEM Large骨头 30
+CHECKITEM 铠甲制作书(攻击力) 12
+CHECKITEM 白金 10
+CHECKITEM 强力绳索 5
+#ACT
+TAKEGOLD 20000
+TAKEITEM 生锈的铠甲 40
+TAKEITEM 恶魔之皮 34
+TAKEITEM 猩猩皮 32
+TAKEITEM Large骨头 30
+TAKEITEM 铠甲制作书(攻击力) 12
+TAKEITEM 白金 10
+TAKEITEM 强力绳索 5
+GIVEITEM AncientSuit(F) 1 
+LINEMESSAGE "You have forged AncientSuit." Hint
+BREAK
+CLOSE
+
+#ELSESAY
+You don't have enough ingredients.
+Please check again.In order to make the AncientSuit, 
+* Items required for forging, 
+- 40 生锈的铠甲
+- 34 Mammoth皮
+- 32 猩猩皮
+- 30 Large骨头
+- 12 铠甲制作书(攻击力)
+- 10 白金
+-  5 强力绳索   
+
+<Back/@main>                       
+
+[@arm5]
+#SAY
+* 陈旧的皮革
+* Defense stats : Ac 4-16 - Amc 6-10 - Mc 1-2 - Hp +10. 
+* Items required for forging, 
+- 40 生锈的铠甲
+- 34 兽皮
+- 32 Mammoth皮
+- 30 Large骨头
+- 12 铠甲制作书(魔法力)
+- 10 白金
+-  5 强力绳索
+
+<Forge Now/@arm53>    <Back/@main>
+
+
+[@arm53]
+#IF
+GENDER MALE
+CHECKGOLD > 20000
+CHECKITEM 生锈的铠甲 40
+CHECKITEM 兽皮 34
+CHECKITEM Mammoth皮 32
+CHECKITEM Large骨头 30
+CHECKITEM 铠甲制作书(魔法力) 12
+CHECKITEM 白金 10
+CHECKITEM 强力绳索 5
+#ACT
+TAKEGOLD 20000
+TAKEITEM 生锈的铠甲 40
+TAKEITEM 兽皮 34
+TAKEITEM Mammoth皮 32
+TAKEITEM Large骨头 30
+TAKEITEM 铠甲制作书(魔法力) 12
+TAKEITEM 白金 10
+TAKEITEM 强力绳索 5
+GIVEITEM 陈旧的皮革(M) 1
+LINEMESSAGE "You have forged 陈旧的皮革." Hint
+BREAK
+CLOSE
+
+#ELSEACT
+GOTO @arm53F
+
+[@arm53F]
+#IF
+CHECKGOLD > 20000
+CHECKITEM 生锈的铠甲 40
+CHECKITEM 兽皮 34
+CHECKITEM Mammoth皮 32
+CHECKITEM Large骨头 30
+CHECKITEM 铠甲制作书(魔法力) 12
+CHECKITEM 白金 10
+CHECKITEM 强力绳索 5
+#ACT
+TAKEGOLD 20000
+TAKEITEM 生锈的铠甲 40
+TAKEITEM 兽皮 34
+TAKEITEM Mammoth皮 32
+TAKEITEM Large骨头 30
+TAKEITEM 铠甲制作书(魔法力) 12
+TAKEITEM 白金 10
+TAKEITEM 强力绳索 5
+GIVEITEM 陈旧的皮革(F) 1
+LINEMESSAGE "You have forged 陈旧的皮革." Hint
+BREAK
+CLOSE
+
+#ELSESAY
+You don't have enough ingredients.
+Please check again.In order to make the 陈旧的皮革, 
+* Items required for forging, 
+- 40 生锈的铠甲
+- 34 兽皮
+- 32 亡灵之皮
+- 30 Large骨头
+- 12 铠甲制作书(魔法力)
+- 10 白金
+-  5 强力绳索   
+
+<Back/@main>                                                                                                                                                                                                                                               

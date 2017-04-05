@@ -1,0 +1,69 @@
+[@Main]
+Welcome, how may I help you?
+ 
+<View/@BuySell> Store.
+<Repair/@repair> Items.
+<Close/@exit>
+
+[@BuySell]
+What item do you want to buy or sell?
+<Buy Back/@BuyBack>
+ 
+<Back/@main>
+
+[@BuyBack]
+#SAY
+Item's you are still able to purchase back.
+ 
+<Back/@Main>
+
+[@Repair]
+Show me the items you wish to repair.
+ 
+<Back/@main>
+
+[Types]
+1
+2
+4
+9
+10
+
+[Trade]
+(HP)小型药水 1
+(HP)小型药水 5
+(HP)小型药水 10
+(MP)小型药水 1
+(MP)小型药水 5
+(MP)小型药水 10
+(HP)中型药水 1
+(HP)中型药水 5
+(HP)中型药水 10
+(MP)中型药水 1
+(MP)中型药水 5
+(MP)中型药水 10
+木剑
+猎弓
+匕首
+乌木剑
+乌木弓
+青铜剑
+铁弓
+短剑
+Sharp犬牙刀
+弩弓
+铁剑
+青铜斧
+海魂
+八荒
+半月
+音速刀
+杉木铁弓
+黑铁剑
+蜡烛
+地牢逃脱卷
+随机传送卷
+布衣(男)
+布衣(女)
+轻型盔甲(男)
+轻型盔甲(女)

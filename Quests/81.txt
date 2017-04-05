@@ -1,0 +1,41 @@
+[@Description]
+Traveler Please return to the {SerpentDeadMines/Yellow} 
+and complete the task which was on the 
+{隐藏的卷轴/LightSteelBlue}. 
+
+[@TaskDescription]
+Eliminate {腐烂电僵尸's/Crimson} and retrieve 
+{亡灵心脏/LightSteelBlue} from the {Hi尸王/Crimson}
+
+[@Completion]
+
+[@KillTasks]
+腐烂电僵尸 20
+
+[@ItemTasks]
+亡灵心脏 1
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+强化斩马刀
+强化偃月
+强化降魔
+强化黑铁刀
+强化长弓
+
+[@ExpReward]
+4800
+
+[@GoldReward]
+4800
+
+
+
+
+
+
+
+

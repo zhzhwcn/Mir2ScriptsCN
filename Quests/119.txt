@@ -1,0 +1,24 @@
+[@Description]
+Please report back to the {BichonExaminer/LimeGreen} 
+
+[@TaskDescription]
+Talk to {BichonExaminer/LimeGreen} in {BichonProvince/Yellow}
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+强化黑铁手镯
+
+[@SelectRewards]
+
+[@ExpReward]
+5180
+
+[@GoldReward]
+2422

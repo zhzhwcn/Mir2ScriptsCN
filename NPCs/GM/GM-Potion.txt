@@ -1,0 +1,55 @@
+[@Main]
+#SAY
+Hello {<$USERNAME>/KHAKI}, my name is {<$NPCNAME>/KHAKI}.
+I see you have {<$HP> | <$MAXHP> HP/RED} and {<$MP> | <$MAXMP> MP/ROYALBLUE}
+ 
+<Buy/@Buy> Potion
+<Sell/@Sell> Potion
+ 
+Tip: Use {@superman/LIMEGREEN} for an infinite amount of HP and MP.
+
+
+[@Buy]
+#SAY
+Buy.
+ 
+<Back/@Main>
+
+
+[@Sell]
+#SAY
+Sell.
+ 
+<Back/@Main>
+
+
+[Types]
+13
+
+[Trade]
+神水
+小虾虎鱼
+鲶鱼
+虾虎鱼
+马鲛鱼
+(HP)小型药水
+(HP)中型药水
+(HP)大型药水
+(HP)超级药水
+(MP)小型药水
+(MP)中型药水
+(MP)大型药水
+(MP)超级药水
+太阳水
+太阳水(M)
+千年雪霜
+Old千年雪霜
+HealthBooster
+ManaBooster
+ImpactDrug
+MagicDrug
+TaoistDrug
+StormDrug
+StaminaAid
+MagicAid
+特殊药水

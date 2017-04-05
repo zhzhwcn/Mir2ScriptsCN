@@ -1,0 +1,29 @@
+[@Description]
+I went to hunt in {DeathValley/Yellow}. I ran into some 
+{钳虫/Crimson} I thought it was a Boss Monster. 
+While retreating I dropped my beloved Sword.
+
+
+[@TaskDescription]
+Travel to {Death Valley/Yellow} and retrieve {Charley剑/LightSteelBlue} 
+by killing {钳虫/Crimson}.
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+Charley剑 1
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+9500
+
+[@GoldReward]
+9500
+

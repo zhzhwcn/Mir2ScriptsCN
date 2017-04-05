@@ -1,0 +1,31 @@
+[@Description]
+I want you to eliminate in the insects in 
+{InsectCave/Yellow} I'm a very light sleeper and i cannot 
+sleep with noise from all the insects. Please can 
+you help me.
+
+[@TaskDescription]
+Eliminate 10 {多足虫/Crimson} and {多眼虫/Crimson}
+
+[@Completion]
+
+[@KillTasks]
+多足虫 10
+多眼虫 10
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+强化青铜腰带 
+
+[@SelectRewards]
+
+[@ExpReward]
+3000
+
+[@GoldReward]
+750
+
+

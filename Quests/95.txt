@@ -1,0 +1,24 @@
+[@Description]
+I miss my Parent's so much. Please can you help?
+
+[@TaskDescription]
+Delivery {加急邮件/LightSteelBlue} to {Sir.Mogu/LimeGreen} in {BichonWall/Yellow}.
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+
+[@CarryItems]
+加急邮件 2
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+1930
+
+[@GoldReward]
+4100

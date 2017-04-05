@@ -1,0 +1,36 @@
+[@Description]
+There are creatures named {半兽人/Crimson} outside
+{BichonWall/Yellow} and other towns. 
+They are very strong and violent. They have 
+been attacking the merchants. Hey, would you 
+be able to help us eliminate the danager?
+
+[@TaskDescription]
+Please hunt {半兽人's/Crimson} and bring back 10 
+{沃玛牙齿's/LightSteelBlue}
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+沃玛牙齿 10
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+青铜短剑
+青铜犬牙刀
+猎鹿弓
+
+[@ExpReward]
+300
+
+[@GoldReward]
+83
+
+
+
+

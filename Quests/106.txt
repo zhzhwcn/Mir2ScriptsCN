@@ -1,0 +1,25 @@
+[@Description]
+The Necklace is my {LifeStone/LightSteelBlue}.. This is why I have 
+returned. Please find my {LifeStone/LightSteelBlue}.
+
+[@TaskDescription]
+Hunt {巨型蠕虫's/Crimson} and return the {破损的项链/LightSteelBlue}.
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+破损的项链 1
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+8000
+
+[@GoldReward]
+8000
+

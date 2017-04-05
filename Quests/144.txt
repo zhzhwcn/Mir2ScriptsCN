@@ -1,0 +1,24 @@
+[@Description]
+Travel to {TreePath/Yellow} and Eliminate {幻影蜘蛛/Crimson} 
+then return to {Perry/LimeGreen} in {TaoVillage/Yellow}
+
+[@TaskDescription]
+
+[@Completion]
+
+[@KillTasks]
+幻影蜘蛛 1 "Kill a 幻影蜘蛛 in TreePath"
+
+[@ItemTasks]
+
+[@FlagTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+
+[@GoldReward]

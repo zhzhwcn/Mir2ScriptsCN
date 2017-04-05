@@ -1,0 +1,234 @@
+[@Main]
+#SAY
+Hello {<$USERNAME>/KHAKI}, my name is {<$NPCNAME>/KHAKI}.
+ 
+<Buy/@Buy> Book
+<Sell/@Sell> Book
+ 
+Learn all <Warrior/@Warrior> , <Wizard/@Wizard> , <Taoist/@Taoist> , <Archer/@Archer> , <Assassin/@Assassin> spells.
+
+
+[@Sell]
+#SAY
+Sell.
+ 
+<Back/@Main>
+
+[@Buy]
+#SAY
+Buy.
+ 
+<Back/@Main>
+
+[@Warrior]
+#Act
+GIVESKILL 基本剑术 3
+GIVESKILL 攻杀剑术 3
+GIVESKILL 刺杀剑术 3
+GIVESKILL 半月弯刀 3
+GIVESKILL 野蛮冲撞 3
+GIVESKILL 双龙斩 3
+GIVESKILL 捕蝇剑 3
+GIVESKILL 烈火剑法 3
+GIVESKILL 狮子吼 3
+GIVESKILL Cross半月弯刀 3
+GIVESKILL 空破闪 3
+GIVESKILL 护身气幕 3
+GIVESKILL 剑气爆 3
+GIVESKILL 天务 3
+GIVESKILL 日闪 3
+GIVESKILL 血龙剑法 3
+[@Wizard]
+#ACT
+GIVESKILL 小火球 3
+GIVESKILL 抗拒火环 3
+GIVESKILL 诱惑之光 3
+GIVESKILL Great小火球 3
+GIVESKILL 地狱火 3
+GIVESKILL 雷电术 3
+GIVESKILL 瞬息移动 3
+GIVESKILL 爆裂火焰 3
+GIVESKILL 火墙术 3
+GIVESKILL 极光电影 3
+GIVESKILL 寒冰掌 3
+GIVESKILL 地狱雷光 3
+GIVESKILL 魔法盾 3
+GIVESKILL 圣言术 3
+GIVESKILL 吸血术 3
+GIVESKILL 冰咆哮 3
+GIVESKILL 灭天火 3
+GIVESKILL 分身术 3
+GIVESKILL 火龙气焰 3
+GIVESKILL 天霜冰环 3
+GIVESKILL 深延术 3
+GIVESKILL 天上落焰 3
+GIVESKILL 冰焰术 3
+[@Taoist]
+#ACT
+GIVESKILL 治愈术 3
+GIVESKILL 精神力战法 3
+GIVESKILL 施毒术 3
+GIVESKILL Soul小火球 3
+GIVESKILL 召唤骷髅 3
+GIVESKILL 隐身术 3
+GIVESKILL Mass隐身术 3
+GIVESKILL 幽灵盾 3
+GIVESKILL 心灵启示 3
+GIVESKILL 神圣战甲术 3
+GIVESKILL 气功波 3
+GIVESKILL 困魔咒 3
+GIVESKILL 净化咒 3
+GIVESKILL Mass治愈术 3
+GIVESKILL 迷魂术 3
+GIVESKILL 无极真气 3
+GIVESKILL 召唤神兽 3
+GIVESKILL 苏生术 3
+GIVESKILL 召唤月令 3
+GIVESKILL 诅咒术 3
+GIVESKILL 烦恼 3
+GIVESKILL 毒雾 3
+GIVESKILL 先天气功 3
+[@Assassin]
+#ACT
+GIVESKILL 绝命剑法 3
+GIVESKILL 风剑术 3
+GIVESKILL 体迅风 3
+GIVESKILL 拔刀术 3
+GIVESKILL 风身术 3
+GIVESKILL 迁移剑 3
+GIVESKILL 烈风击 3
+GIVESKILL 捕缚术 3
+GIVESKILL 猛毒剑气 3
+GIVESKILL 月影术 3
+GIVESKILL 吸气 3
+GIVESKILL 轻身步 3
+GIVESKILL 烈火身 3
+GIVESKILL 血风击 3
+GIVESKILL CrescentSlash 3
+[@Archer]
+#ACT
+GIVESKILL 必中闪 
+GIVESKILL 天日闪 3
+GIVESKILL 爆炸陷阱 3
+GIVESKILL Explosive捕缚术 3
+GIVESKILL 爆闪 3
+GIVESKILL 气功术 3
+GIVESKILL 风弹步 3
+GIVESKILL 基础射术 3
+GIVESKILL 气流术 3
+GIVESKILL 金刚术 3
+GIVESKILL 吸血地精 3
+GIVESKILL 吸血射击 3
+GIVESKILL 召唤蛤蟆 3
+GIVESKILL 毒魔闪 3
+GIVESKILL 宁神射击 3
+GIVESKILL 召唤毒蛇 3
+GIVESKILL 血龙闪 3
+GIVESKILL 血龙闪-秘籍 3
+
+[Types]
+20
+
+[Trade]
+基本剑术
+攻杀剑术
+刺杀剑术
+半月弯刀
+野蛮冲撞
+双龙斩
+捕蝇剑
+烈火剑法
+狮子吼
+Cross半月弯刀
+空破闪
+护身气幕
+剑气爆
+天务
+日闪
+血龙剑法
+NewWarrior2
+小火球
+抗拒火环
+诱惑之光
+Great小火球
+地狱火
+雷电术
+瞬息移动
+爆裂火焰
+火墙术
+极光电影
+寒冰掌
+地狱雷光
+魔法盾
+圣言术
+吸血术
+冰咆哮
+灭天火
+分身术
+火龙气焰
+天霜冰环
+深延术
+天上落焰
+冰焰术
+NewWizard1
+NewWizard2
+治愈术
+精神力战法
+施毒术
+Soul小火球
+召唤骷髅
+隐身术
+Mass隐身术
+幽灵盾
+心灵启示
+神圣战甲术
+气功波
+困魔咒
+净化咒
+Mass治愈术
+迷魂术
+无极真气
+召唤神兽
+苏生术
+召唤月令
+诅咒术
+烦恼
+毒雾
+先天气功
+NewTaoist1
+NewTaoist2
+绝命剑法
+风剑术
+体迅风
+拔刀术
+风身术
+迁移剑
+烈风击
+捕缚术
+猛毒剑气
+月影术
+吸气
+轻身步
+烈火身
+血风击
+月华乱舞
+NewAssassin1
+NewAssassin2
+必中闪
+天日闪
+爆炸陷阱
+Explosive捕缚术
+爆闪
+气功术
+风弹步
+基础射术
+气流术
+金刚术
+吸血地精
+吸血射击
+召唤蛤蟆
+毒魔闪
+宁神射击
+召唤毒蛇
+血龙闪
+血龙闪-秘籍

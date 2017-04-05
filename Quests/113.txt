@@ -1,0 +1,30 @@
+[@Description]
+Hello. There are to many Insects in 
+{MongchonProvince/Yellow} these days. I can't sleep 
+because of the noises at night. Could you 
+hunt these insects?
+
+[@TaskDescription]
+Travel to {Stone Tomb/Yellow} and Eliminate 10 
+{黑色恶蛆/Crimson} and {楔蛾/Crimson}.
+ 
+[@Completion]
+
+[@KillTasks]
+黑色恶蛆 10
+楔蛾 10
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+12500
+
+[@GoldReward]
+12500
+

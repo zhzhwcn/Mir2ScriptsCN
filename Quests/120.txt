@@ -1,0 +1,31 @@
+[@Description]
+My Teacher asked me to find ingredients for 
+药. You can only get them from 
+{恶灵僵尸/Crimson}, but I cannot get close to them. 
+Could you get some {Corps花/LightSteelBlue} for me?
+
+[@TaskDescription]
+Travel to PrajnaIsland and Collect 10 {Corps花/LightSteelBlue} by 
+hunting {恶灵僵尸's/Crimson}
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+Corps花 10
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+18500
+
+[@GoldReward]
+18500
+
+
+
